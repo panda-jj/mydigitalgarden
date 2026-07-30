@@ -1,6 +1,5 @@
 ---
-title: Your first seed
-dg-publish: "true"
+dg-publish: true
 ---
 
 ### Halo!
